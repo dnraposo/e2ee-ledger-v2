@@ -1,0 +1,14 @@
+{
+  "seq": 1,
+  "log_id": "b71c1f151ea45655d1553548f9fa595e488f2c928a76bf6afcc6a06585465a59",
+  "head_hash": "da9a923a35a885550c6dd6a188e12622fcafd0342e67f4ac0e506dbeef348cd9",
+  "prev_checkpoint": "0000000000000000000000000000000000000000000000000000000000000000",
+  "payload_b64": "ArccHxUepFZV0VU1SPn6WV5IjyySina/avzGoGWFRlpZAdqakjo1qIVVDG3WoYjhJiL8r9A0Lmf0rA5Qbb7vNIzZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/7e7WBg==",
+  "log_signature": "8fcb4fb282b7a6b231cdc84840569754468bd8ca8db5bca8c8c1b947271dddd897fe48e12208153da7ba3cdbd949e88bf5d6abf1bab2ad2558d0911f2e8fa800",
+  "witness_signatures": [
+    {
+      "key_id": "8eba4cbf17b99bd3066445718cf9d4756aefdb7afb85c2fbcd2fe55cb56ce052",
+      "signature": "3a7b036bb1539afd726a240489a9cf6e21fe8d59d312aec9342b20a648b1657e9c6e71892cf652168fd478065a4c9d09aac87235202a3faa94521a793fb10a0b"
+    }
+  ]
+}
